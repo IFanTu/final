@@ -2,7 +2,7 @@ library(data.table)
 library(ggplot2)
 library(plyr)
 
-data <- fread("C:/Users/ifant/Desktop/新增資料夾/資料科學實務/loan.csv", header = T, encoding="UTF-8", integer="double")
+data <- fread("/loan.csv", header = T, encoding="UTF-8", integer="double")
 dim(data)
 str(data)
 summary(data)
