@@ -1,4 +1,5 @@
 # final
 
-#https://www.kaggle.com/wendykan/lending-club-loan-data
+get data on kaggle
+https://www.kaggle.com/wendykan/lending-club-loan-data
 
